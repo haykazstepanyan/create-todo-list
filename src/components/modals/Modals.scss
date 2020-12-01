@@ -1,0 +1,63 @@
+.modals {
+	border-radius: 5px;
+	&__title {
+		position: relative;
+		.close-button {
+			position: absolute;
+			top: 8px;
+			right: 8px;
+		}
+	}
+	&__buttons {
+		background: transparent;
+		font-size: 16px;
+		padding: 8px 12px;
+		border: 1px solid;
+		border-radius: 5px;
+		cursor: pointer;
+		&_cancel {
+			color: #000;
+			border-color: #000;
+		}
+		&_submit {
+			background: #ff0086;
+			border-color: #ff0086;
+			color: #fff;
+			&:disabled {
+				background: #ffa0d3;
+				border-color: #ffa0d3;
+				cursor: not-allowed;
+			}
+		}
+	}
+	.input-field {
+		height: 32px;
+		width: 400px;
+		margin-bottom: 15px;
+		input {
+			width: 100%;
+			height: 100%;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			padding: 0 5px;
+			box-sizing: border-box;
+			&[type="color"] {
+				width: 40%;
+			}
+		}
+	}
+}
+.new-todo {
+	&__title {
+		background: #eaeaea;
+	}
+}
+.delete-modal {
+	h3 {
+		margin: 25px 0 20px;
+	}
+	.close-button {
+		top: 0;
+		right: 0;
+	}
+}

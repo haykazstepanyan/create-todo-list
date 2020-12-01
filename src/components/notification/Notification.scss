@@ -1,0 +1,25 @@
+.notification {
+	position: absolute;
+	width: 100%;
+	top: 10px;
+	&__content {
+		width: fit-content;
+		margin: 0 auto;
+		background: #333;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		color: #fff;
+		padding: 15px;
+		border-radius: 15px;
+	}
+	&__icon {
+		margin-right: 15px;
+		&_success {
+			color: rgb(153, 255, 0);
+		}
+		&_error {
+			color: rgb(255, 0, 0);
+		}
+	}
+}
