@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/haykazstepanyan/create-todo-list.git/static/css/main.039ee1ce.chunk.css",
-    "main.js": "/haykazstepanyan/create-todo-list.git/static/js/main.68638a26.chunk.js",
-    "main.js.map": "/haykazstepanyan/create-todo-list.git/static/js/main.68638a26.chunk.js.map",
-    "runtime-main.js": "/haykazstepanyan/create-todo-list.git/static/js/runtime-main.bf2e2672.js",
-    "runtime-main.js.map": "/haykazstepanyan/create-todo-list.git/static/js/runtime-main.bf2e2672.js.map",
-    "static/js/2.e8eaf915.chunk.js": "/haykazstepanyan/create-todo-list.git/static/js/2.e8eaf915.chunk.js",
-    "static/js/2.e8eaf915.chunk.js.map": "/haykazstepanyan/create-todo-list.git/static/js/2.e8eaf915.chunk.js.map",
-    "index.html": "/haykazstepanyan/create-todo-list.git/index.html",
-    "static/css/main.039ee1ce.chunk.css.map": "/haykazstepanyan/create-todo-list.git/static/css/main.039ee1ce.chunk.css.map",
-    "static/js/2.e8eaf915.chunk.js.LICENSE.txt": "/haykazstepanyan/create-todo-list.git/static/js/2.e8eaf915.chunk.js.LICENSE.txt",
-    "static/media/nothing-to-show.5a7e680c.jpg": "/haykazstepanyan/create-todo-list.git/static/media/nothing-to-show.5a7e680c.jpg"
+    "main.css": "/create-todo-list/static/css/main.039ee1ce.chunk.css",
+    "main.js": "/create-todo-list/static/js/main.36ba7e77.chunk.js",
+    "main.js.map": "/create-todo-list/static/js/main.36ba7e77.chunk.js.map",
+    "runtime-main.js": "/create-todo-list/static/js/runtime-main.4b98480a.js",
+    "runtime-main.js.map": "/create-todo-list/static/js/runtime-main.4b98480a.js.map",
+    "static/js/2.5d6c5936.chunk.js": "/create-todo-list/static/js/2.5d6c5936.chunk.js",
+    "static/js/2.5d6c5936.chunk.js.map": "/create-todo-list/static/js/2.5d6c5936.chunk.js.map",
+    "index.html": "/create-todo-list/index.html",
+    "static/css/main.039ee1ce.chunk.css.map": "/create-todo-list/static/css/main.039ee1ce.chunk.css.map",
+    "static/js/2.5d6c5936.chunk.js.LICENSE.txt": "/create-todo-list/static/js/2.5d6c5936.chunk.js.LICENSE.txt",
+    "static/media/nothing-to-show.5a7e680c.jpg": "/create-todo-list/static/media/nothing-to-show.5a7e680c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf2e2672.js",
-    "static/js/2.e8eaf915.chunk.js",
+    "static/js/runtime-main.4b98480a.js",
+    "static/js/2.5d6c5936.chunk.js",
     "static/css/main.039ee1ce.chunk.css",
-    "static/js/main.68638a26.chunk.js"
+    "static/js/main.36ba7e77.chunk.js"
   ]
 }
